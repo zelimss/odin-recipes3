@@ -1,0 +1,29 @@
+* {
+    font-family: Arial, "Times New Roman", sans-serif;
+}
+
+body {
+    text-align: center;
+    background-color: #c0fdff;
+}
+
+ul {
+    display: inline-block;
+}
+
+li {
+    text-align: left;
+}
+
+h1 {
+    font-weight: bold;
+    color: rgb(162, 0, 255);
+}
+
+h2 {
+    font-weight: bold;
+}
+
+ol {
+    display: inline-block;]
+}
